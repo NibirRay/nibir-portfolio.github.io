@@ -1,24 +1,4 @@
-title: "Nibir Ray"
-description: "Creative Graphic Designer | CSE Student"
-email: nibirray409@gmail.com
-
-baseurl: ""
-url: "https://nibir-portfolio.github.io"
-
-author:
-  name: "Nibir Ray"
-  bio: "Graphic Designer & CSE Student"
-  location: "Bangladesh"
-
-theme: minima
-
-plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
-
-markdown: kramdown
-
-exclude:
-  - README.md
-  - node_modules
-  - vendor
+title: Nibir Ray
+logo: asset/image/nibir.png
+show_downloads: true
+theme: jekyll-theme-minimal
